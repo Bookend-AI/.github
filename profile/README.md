@@ -12,4 +12,4 @@
 -->
 [bookend.ai](https://www.bookend.ai) is an end to end Generative AI enterprise platform for everything from model discoverability and training to deployment and operations. Developers can focus on their apps and integrate Generative AI technology without worrying about the administrative burden of setting up the Generative AI tech stack.
 
-![twitter](/twitter-icon.png = 50X50)
+![twitter](/twitter-icon.png =50x50)
