@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-bookend.ai is an end to end Generative AI enterprise platform for everything from model discoverability and training to deployment and operations. Developers can focus on their apps and integrate Generative AI technology without worrying about the administrative burden of setting up the Generative AI tech stack.
+[bookend.ai](https://www.bookend.ai) is an end to end Generative AI enterprise platform for everything from model discoverability and training to deployment and operations. Developers can focus on their apps and integrate Generative AI technology without worrying about the administrative burden of setting up the Generative AI tech stack.
